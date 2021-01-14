@@ -1,7 +1,7 @@
-package ua.mainacademy;
+package ua.mainacademy.service;
 
-import ua.mainacademy.service.LongMultiplication;
-import ua.mainacademy.service.MaxPalindrome;
+import ua.mainacademy.service.service.LongMultiplication;
+import ua.mainacademy.service.service.MaxPalindrome;
 
 import java.util.logging.Logger;
 

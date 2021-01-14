@@ -1,4 +1,4 @@
-package ua.mainacademy.service;
+package ua.mainacademy.service.service;
 
 import java.util.TreeSet;
 

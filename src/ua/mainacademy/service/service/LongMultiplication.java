@@ -1,6 +1,6 @@
-package ua.mainacademy.service;
+package ua.mainacademy.service.service;
 
-import ua.mainacademy.AppRunner;
+import ua.mainacademy.service.AppRunner;
 
 import java.util.logging.Logger;
 
